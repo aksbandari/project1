@@ -1,0 +1,161 @@
+/* font-family: 'Lato', sans-serif;
+font-family: 'Sevillana', cursive; */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&family=Sevillana&display=swap'); */
+
+/* common classes */
+
+body{
+    margin:0px;
+    font-family: 'Lato', sans-serif;
+    color:#fff;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    margin:0px;
+}
+
+.header{
+    height:auto;
+}
+
+
+.footer{
+    height:auto;
+}
+
+.container{
+    width: 1200px;
+    height:auto;
+    margin:0px auto;
+}
+
+.row{
+    width:100%;
+    height:auto;
+}
+
+.row:after{
+    clear:both;
+    content:"";
+    display: block;
+}
+
+.pading50{
+    padding-top:50px;
+}
+
+.padboth{
+    padding:30px 0px;
+}
+
+/* header section classes */
+.logo{
+    width:260px;
+    height:140px;
+    float: left;
+}
+.navigation{
+    width:800px;
+    height:40px;
+    padding:30px 0px;
+    float: right;
+
+}
+
+.navigation ul{
+    list-style: none;
+    margin:0px;
+    padding:0px;
+    text-align: right;
+
+}
+
+.navigation ul li{
+    display: inline-block;
+}
+
+.navigation ul li a{
+    padding: 0px 25px;
+    text-transform: uppercase;
+    line-height: 40px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;;
+    display: block;
+
+}
+
+.navigation ul li a:hover{
+    background-color: #506a8c;
+    color:#fff;
+}
+/* 
+baner section classes */
+
+.baner{
+    height: 600x;
+    background-image: url(../images/baner.png);
+
+}
+
+/* main section classes comes here */
+
+.mainsec{
+    height:auto;
+}
+
+.mainsec h1{
+    
+    text-align: center;
+    font-size: 60px;
+    color:#bdf505;
+    font-weight: 300;
+
+}
+
+.mainsec p{
+    text-align: center;
+    color:#6f736e;
+    font-size: 20px;
+    width:60%;
+    padding: 20px 0px;
+    line-height: 150%;
+    margin: auto;
+
+}
+
+.items{
+    width:268px;
+    height:auto;
+    float: left;
+    margin:15px;
+    border:1px solid #ddd;
+}
+
+.items img{
+    width:100%;
+    height:auto;
+}
+
+.inneritem{
+padding:15px;
+}
+
+.inneritem p{
+    width:100%;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 180%;
+}
+
+.inneritem h3{
+    text-transform: uppercase;
+    color:#481fa6;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+
+.items:hover{
+    box-shadow: 0px 0px 10px #ddd;
