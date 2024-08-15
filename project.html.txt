@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>web application</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&family=Sevillana&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body bgcolor="black">
+    <!-- 01 is header section -->
+    <section class="header">
+        <section class="header">
+            <div class="container">
+                <div class="row">
+                    <div class="logo">
+                        <img src="ott.png" alt="">
+                    </div>
+                    <div class="navigation">
+                        <ul>
+                            <li>
+                                <a href="https://adjhcxds-secure-v2.search-api.cloud/?label=others&q=masooda"><B><U>SEARCH</U></B></a>
+                            </li>
+                            <li>
+                                <a href="https://ww3.5movierulz.ws/"><u>HOME</u></a>
+                            </li>
+                            <li>
+                                <a href="https://wiki.meramaal.com/tag/movierulz-wiki/"><u>ABOUT</u></a>
+                            </li>
+                            <li>
+                                <a href="https://www.ibomma.net/telugu-movies/"><u>MOVIES</u></a>
+                            </li>
+                            <li>
+                                <a href="https://accounts.google.com/v3/signin/identifier?dsh=S-1794405112%3A1672222576700400&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6upLcrW9UjwxyH-K-J6YQiAX60A1WdJbApoKJflGGFDQFwFrvaULftfvjMoCfsC4fWJrWlUw"><u>ACCOUNT</u></a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section> 
+            <!-- 02 is baner section -->
+    <section class="baner" align="center">
+        <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                
+                <img src="wednesday22 (1).png" class="d-block w-100" alt=""click me >
+              </div>
+              <div class="carousel-item">
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+    </section>  
+  </section>
+
+    <!-- 03 main content section -->
+    <section class="mainsec">
+
+        <div class="container">
+            <div class="row pading50">
+                <h1><b>Latest Movies</b></h1>
+                <p>
+                    OTT Platform to Watch Latest MOVIES
+                </p>
+
+            </div>
+            <div class="row padboth">
+                <div class="items">
+                 <img src="maddd.jpg" alt="">
+                 <div class="inneritem">
+                    <h3><b>MASOODA</b></h3>
+                    <p>
+                        <a href="https://ww3.5movierulz.ws/masooda-2022-hdrip-telugu-full-movie-watch-online-free/">play</a>
+                    </p>
+                 </div>
+                </div>
+                <div class="items">
+                    <img src="lt.jpg" alt="">
+                    <div class="inneritem">
+                        <h3><b>LOVE TODAY</b></h3>
+                        <p>
+                            <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a> 
+                        </p>
+                     </div>
+                </div>
+                <div class="items">
+                    <img src="thankgod.jpg" alt="">
+                    <div class="inneritem">
+                        <h3><b>THANK GOD</b></h3>
+                        <p>
+                            <a href="https://ww3.5movierulz.ws/thank-god-2022-hdrip-hindi-full-movie-watch-online-free/">play</a> 
+                        </p>
+                     </div>
+                </div>
+                <div class="items">
+                    <img src="ginna.jpg" alt="">
+                    <div class="inneritem">
+                        <h3><b>GINNA</b></h3>
+                        <p> 
+                            <a href="https://ww3.5movierulz.ws/ginna-bhai-2022-hdrip-hindi-hq-line-full-movie-watch-online-free/">play</a>
+                     </div>
+                </div>
+                <div class="container" align="center">
+                    <div class="row pading50">
+                        <h1><b> TOLLYWOOD</b></h1>
+                        <p>
+                            <U>MOVIES</U>  
+                        </p>
+                    </div>
+                    <div class="row padboth">
+                        <div class="items">
+                         <img src="maddd.jpg" alt="">
+                         <div class="inneritem">
+                            <h3><b>MASOODA</b></h3>
+                            <p>
+                                <a href="https://ww3.5movierulz.ws/masooda-2022-hdrip-telugu-full-movie-watch-online-free/">play</a> 
+                            </p>
+                         </div>
+                        </div>
+                        <div class="items">
+                            <img src="chup.jpg" alt="">
+                            <div class="inneritem">
+                                <h3><b>CHUP</b></h3>
+                                <p>
+                                    <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a> 
+                                </p>
+                             </div>
+                        </div>
+                        <div class="items">
+                            <img src="sardar.jpg" alt="">
+                            <div class="inneritem">
+                                <h3><b>SARDAR</b></h3>
+                                <p>
+                                    <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a> 
+                                </p>
+                             </div>
+                        </div>
+                        <div class="items">
+                            <img src="ginna.jpg" alt="">
+                            <div class="inneritem">
+                                <h3><b>GINNA</b></h3>
+                                <p>
+                                    <a href="https://ww3.5movierulz.ws/ginna-bhai-2022-hdrip-hindi-hq-line-full-movie-watch-online-free/">play</a>
+                                </p>
+                             </div>
+                        </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row pading50">
+                <h1><b>BOLLYWOOD</b></h1>
+                <p>
+                    MOVIES
+                </p>
+
+            </div>
+            <div class="row padboth">
+                <div class="items">
+                 <img src="brahma.jpg" alt="">
+                 <div class="inneritem">
+                    <h3><B>BRAMMAHASTRA</B></h3>
+                    <p>
+                        <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a> 
+                    </p>
+                 </div>
+                </div>
+                <div class="items">
+                    <img src="Shamshera.jpg" alt="">
+                    <div class="inneritem">
+                        <h3><b>SHAMSHERA</b></h3>
+                        <p>
+                            <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a>
+                        </p>
+                     </div>
+                </div>
+                <div class="items">
+                    <img src="lallal.jpg" alt="">
+                    <div class="inneritem">
+                        <h3><b>LAL SINGH CHEDDA
+                        </b></h3>
+                        <p>
+                            <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a> 
+                        </p>
+                     </div>
+                </div>
+                <div class="items">
+                    <img src="bachpan (1).png" alt="">
+                    <div class="inneritem">
+                        <h3><b>
+                            BACHCHHAN PAANDEY
+                        </b></h3>
+                        <p>
+                            <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a> 
+                        </p>
+                     </div>
+                </div>
+                <div class="container">
+                    <div class="row pading50">
+                        <h1><B>HOLLYWOOD</B></h1>
+                        <p>
+                            <U>MOVIES</U>  
+                        </p>
+        
+                    </div>
+                    <div class="row padboth">
+                        <div class="items">
+                         <img src="l&t (1).png" alt="">
+                         <div class="inneritem">
+                            <h3>LOVE AND THUNDER</h3>
+                            <p>
+                                <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a> 
+                            </p>
+                         </div>
+                        </div>
+                        <div class="items">
+                            <img src="jungle.jpg" alt="">
+                            <div class="inneritem">
+                                <h3>JUNGLE CURISE</h3>
+                                <p>
+                                    <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a> 
+                                </p>
+                             </div>
+                        </div>
+                        <div class="items">
+                            <img src="invitation.jpg" alt="">
+                            <div class="inneritem">
+                                <h3><b>INVITATION</b></h3>
+                                <p>
+                                    <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a> 
+                                </p>
+                             </div>
+                        </div>
+                        <div class="items">
+                            <img src="the father (1).png" alt="">
+                            <div class="inneritem">
+                                <h3>THE FATHER</h3>
+                                <p>
+                                    <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a> 
+                                </p>
+                             </div>
+                        </div>
+                        <h1><b>TAMIL MOVIES</b></h1>
+                        <P>MOVIES</P>
+
+
+            </div>
+            <div class="row padboth">
+                <div class="items">
+                 <img src="ps1.jpg" alt="">
+                 <div class="inneritem">
+                    <h3><b>PS-1</b></h3>
+                    <p>
+                        <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a> 
+                    </p>
+                 </div>
+                </div>
+                <div class="items">
+                    <img src="lt.jpg" alt="">
+                    <div class="inneritem">
+                        <h3><b>LOVE TODAY</b></h3>
+                        <p>
+                            <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a> 
+                        </p>
+                     </div>
+                </div>
+                <div class="items">
+                    <img src="puspha24.jpg" alt="">
+                    <div class="inneritem">
+                        <h3><b>PUSHPA</b></h3>
+                        <p>
+                            <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a>
+                        </p>
+                     </div>
+                </div>
+                <div class="items">
+                    <img src="privce2.jpg" alt="">
+                    <div class="inneritem">
+                        <h3><b>PRINCE</b></h3>
+                        <p>
+                            <a href="https://ww3.5movierulz.ws/love-today-2022-hdrip-telugu-original-version-full-movie-watch-online-free/">play</a>
+                     </div>
+                </div>
+    </section>
+    <!-- 04 footer section -->
+    <section class="footer"></section>
+</body>
+</html>
+
+
+
+css.......
+
+
+/* font-family: 'Lato', sans-serif;
+font-family: 'Sevillana', cursive; */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&family=Sevillana&display=swap'); */
+
+/* common classes */
+
+body{
+    margin:0px;
+    font-family: 'Lato', sans-serif;
+    color:#fff;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    margin:0px;
+}
+
+.header{
+    height:auto;
+}
+
+
+.footer{
+    height:auto;
+}
+
+.container{
+    width: 1200px;
+    height:auto;
+    margin:0px auto;
+}
+
+.row{
+    width:100%;
+    height:auto;
+}
+
+.row:after{
+    clear:both;
+    content:"";
+    display: block;
+}
+
+.pading50{
+    padding-top:50px;
+}
+
+.padboth{
+    padding:30px 0px;
+}
+
+/* header section classes */
+.logo{
+    width:260px;
+    height:140px;
+    float: left;
+}
+.navigation{
+    width:800px;
+    height:40px;
+    padding:30px 0px;
+    float: right;
+
+}
+
+.navigation ul{
+    list-style: none;
+    margin:0px;
+    padding:0px;
+    text-align: right;
+
+}
+
+.navigation ul li{
+    display: inline-block;
+}
+
+.navigation ul li a{
+    padding: 0px 25px;
+    text-transform: uppercase;
+    line-height: 40px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;;
+    display: block;
+
+}
+
+.navigation ul li a:hover{
+    background-color: #506a8c;
+    color:#fff;
+}
+/* 
+baner section classes */
+
+.baner{
+    height: 600x;
+    background-image: url(../images/baner.png);
+
+}
+
+/* main section classes comes here */
+
+.mainsec{
+    height:auto;
+}
+
+.mainsec h1{
+    
+    text-align: center;
+    font-size: 60px;
+    color:#bdf505;
+    font-weight: 300;
+
+}
+
+.mainsec p{
+    text-align: center;
+    color:#6f736e;
+    font-size: 20px;
+    width:60%;
+    padding: 20px 0px;
+    line-height: 150%;
+    margin: auto;
+
+}
+
+.items{
+    width:268px;
+    height:auto;
+    float: left;
+    margin:15px;
+    border:1px solid #ddd;
+}
+
+.items img{
+    width:100%;
+    height:auto;
+}
+
+.inneritem{
+padding:15px;
+}
+
+.inneritem p{
+    width:100%;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 180%;
+}
+
+.inneritem h3{
+    text-transform: uppercase;
+    color:#481fa6;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+
+.items:hover{
+    box-shadow: 0px 0px 10px #ddd;
